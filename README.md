@@ -11,3 +11,13 @@
 <li>📱Focused on the UI part.</li>  
 <li>✨Kept very simple, yet very elegant, with a pastel color pallet.</li>
 </ul>
+
+<div align="justify">
+  <p>
+    <i>Technologies used: HTML, CSS, TS. Framework Used: Angular (Typescript version), Bootstrap. Database Used: MongoDB.
+
+A project using Angular TS / Angular to make the landing page of the Hungry Helper cafe and the menu app.
+
+Data is fetched from the MongoDB server containing the food descriptions...price, tags, cook time, ratings, etc.</i>
+  </p>
+</div>
